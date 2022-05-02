@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B9F3AA9A-C30A-4E5F-806E-EE7C71215118}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cal5/Program.cs">
+    <Files>
+      <File FileName="cal5/Program.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cal5" expanded="True">
+            <Node name="cal5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cal5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
