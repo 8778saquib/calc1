@@ -1,0 +1,13 @@
+/Users/saquib/Desktop/PG/CAL/CAL/bin/Debug/netcoreapp3.1/CAL.deps.json
+/Users/saquib/Desktop/PG/CAL/CAL/bin/Debug/netcoreapp3.1/CAL.runtimeconfig.json
+/Users/saquib/Desktop/PG/CAL/CAL/bin/Debug/netcoreapp3.1/CAL.runtimeconfig.dev.json
+/Users/saquib/Desktop/PG/CAL/CAL/bin/Debug/netcoreapp3.1/CAL.dll
+/Users/saquib/Desktop/PG/CAL/CAL/bin/Debug/netcoreapp3.1/CAL.pdb
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.csproj.AssemblyReference.cache
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.AssemblyInfoInputs.cache
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.AssemblyInfo.cs
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.csproj.CoreCompileInputs.cache
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.dll
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.pdb
+/Users/saquib/Desktop/PG/CAL/CAL/obj/Debug/netcoreapp3.1/CAL.genruntimeconfig.cache
